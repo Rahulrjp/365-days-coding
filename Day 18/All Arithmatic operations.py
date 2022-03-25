@@ -1,0 +1,8 @@
+print('All Arithmatic Operations :- ')
+x = int(input('x = '))
+y = int(input('y = '))
+print("Addition =", x+y)
+print("subtraction =", x-y)
+print("multilication =", x*y)
+print("division =", x/y)
+print("Modulus =", x%y)
